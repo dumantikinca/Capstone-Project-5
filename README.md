@@ -1,5 +1,4 @@
 # Capstone-Project-5
-## Poised Project Final
 ## Project Details: 
 ### Description
 The Poised Project is a program written the Java language that was created to fulfill the level 2 task requirements for the Hyperion Development Software Engineering Bootcamp that I am enrolled in. 
