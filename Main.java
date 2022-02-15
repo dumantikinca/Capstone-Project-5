@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 
 //Software Engineering Task 24 - Capstone Project III.
-//This task required the creation of a small project management system for structural engineering // firm called 'Poised'.
+//This task required the creation of a small project management system for structural engineering 
 //This management system keeps track of the projects which the firm works on.
 //@author Duma
 
